@@ -1,6 +1,6 @@
 ## Olá, sou Arhtur Cesar👋
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurCesar-bit&hide=contribs,prs_icons=true&theme=dark)  <img 
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurCesar-bit&hide=contribs,prs_icons=true&theme=dark) <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
