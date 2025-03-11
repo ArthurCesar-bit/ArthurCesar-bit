@@ -1,6 +1,11 @@
 ## Olá, sou Arhtur Cesar👋
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurCesar-bit&hide=contribs,prs_icons=true&theme=dark)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurCesar-bit&hide=contribs,prs_icons=true&theme=dark)  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCesar-bit&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ##
 
