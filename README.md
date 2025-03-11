@@ -7,7 +7,7 @@
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCesar-bit&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+##
 ##
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" width="60"/> 
