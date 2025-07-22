@@ -1,4 +1,4 @@
-## Olá, sou Arhtur Cesar👋
+## Olá, sou Arthur Cesar👋
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurCesar-bit&hide=contribs,prs_icons=true&theme=dark) 
 <img 
