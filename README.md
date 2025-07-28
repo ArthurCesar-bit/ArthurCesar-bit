@@ -5,7 +5,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="125" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCesar-bit&theme=dark&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCesar-bit&theme=dark&layout=compact&custom_title=Codes" 
   />
 ##
 ##
