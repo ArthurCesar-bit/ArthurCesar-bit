@@ -16,19 +16,6 @@
   />
 </a>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║ TYPING SVG                                                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<p align="center">
-  <a href="#">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=720&lines=dev+backend+evoluindo+pra+infra%2Fdevops;linux+daily-driver+%C2%B7+homelabber+%C2%B7+neovim+enjoyer;FastAPI+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Docker+%C2%B7+Proxmox;trying+to+leave+systems+better+than+I+found+them"
-      alt="typing"
-    />
-  </a>
-</p>
-
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
