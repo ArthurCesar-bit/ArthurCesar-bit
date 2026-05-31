@@ -11,7 +11,7 @@
 
 <a href="#">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=arthur&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=backend%20→%20infra%20·%20linux%20·%20homelab&descSize=18&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=arthur&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=backend%20→%20infra%20·%20linux%20·%20agile&descSize=18&descAlignY=60"
     alt="header"
   />
 </a>
