@@ -63,10 +63,6 @@
   <a href="https://github.com/ArthurCesar-bit">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=ArthurCesar-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"
-    />
-    <img
-      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCesar-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"
     />
   </a>
